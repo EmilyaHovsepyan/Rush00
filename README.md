@@ -12,11 +12,12 @@ Rush 00 is a weekend project where students collaborate to create a C program th
 The program takes two arguments: width (`x`) and height (`y`), and outputs a rectangle pattern made of characters:
 
 Example for `rush00(5, 3)`:
-
+o---o
+|   |
+o---o
 
 Each "rush" variation has a different border style:
 - `rush00`: uses `o`, `-`, and `|`
-- `rush01`, `rush02`, ... have different corner and edge characters
 
 ## 🔧 Usage
 

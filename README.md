@@ -1,5 +1,9 @@
 # Rush 00
 
+![42 Project](https://img.shields.io/badge/42%20School-Project-blue)
+![Language](https://img.shields.io/badge/language-C-informational)
+![License](https://img.shields.io/badge/status-Completed-success)
+
 > First group project at 42 School — an introduction to teamwork, Git, and basic C programming.  
 > The goal is to build a program that prints different borders made of ASCII characters, forming rectangles.
 

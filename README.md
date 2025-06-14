@@ -1,0 +1,27 @@
+# Rush 00
+
+> First group project at 42 School — an introduction to teamwork, Git, and basic C programming.  
+> The goal is to build a program that prints different borders made of ASCII characters, forming rectangles.
+
+## 📌 Project Overview
+
+Rush 00 is a weekend project where students collaborate to create a C program that prints rectangles of varying sizes using different border styles. The project focuses on teamwork, clean code, and mastering basics like loops, conditionals, and output functions.
+
+## 🧱 How It Works
+
+The program takes two arguments: width (`x`) and height (`y`), and outputs a rectangle pattern made of characters:
+
+Example for `rush00(5, 3)`:
+
+
+Each "rush" variation has a different border style:
+- `rush00`: uses `o`, `-`, and `|`
+- `rush01`, `rush02`, ... have different corner and edge characters
+
+## 🔧 Usage
+
+### Build
+
+```bash
+gcc rush00.c -o rush00
+
